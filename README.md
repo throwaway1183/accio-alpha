@@ -1,4 +1,4 @@
-# WiDS-2024
+# WiDS-2025
 
 Welcome to Winter in Data Science Program!
 This README will guide you through the resources and materials provided in this repository to ensure a smooth and effective learning experience.  
