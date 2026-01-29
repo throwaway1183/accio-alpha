@@ -1,36 +1,11 @@
+Week 1:
 
-## Week-1 Resources
+studied the mathematical fundamentals required for data analysis, with a focus on probability theory and random variables including topics such as sample spaces, probability axioms, conditional probability, independance, Bayes theorem, total probability theorem, etc.
 
-## Python Basics
+learned about discrete and continuous random variables, including probability mass functions (PMF) and probability density functions (PDF). I explored common probability distributions such as Bernoulli, Binomial, Poisson, Normal, Gamma, Beta, and Chi-square, and understood how to compute their mean, variance, and moment generating functions.
 
-Throughout this course, you will primarily use Python for coding. While an in-depth knowledge of the language is not required, understanding basic data types, data structures, loops, functions, and file operations is essential. Here are some resources to help you with Python basics:
+covered expectation, variance, covariance, and correlation, along with their properties and applications. Studied joint and conditional distributions and criteria for independence between variables.
 
-- [Python Basics Video](https://youtu.be/kqtD5dpn9C8?feature=shared)
-- [W3Schools Python Tutorial](https://www.w3schools.com/python/)
-- [Python Basics Playlist](https://youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm&feature=shared)
+practiced numerical computing and data visualization using NumPy and Matplotlib. Performed array creation and manipulation, including indexing, slicing, reshaping, and vectorized operations. Computed statistical measures such as mean, variance, and standard deviation, and applied these operations efficiently using NumPy functions.
 
-## Colab Notebooks
-
-In this course, we'll use Colab Jupyter Notebooks for coding exercises. Colab allows you to write and run code in separate cells, facilitating easier debugging. It's a hosted Jupyter notebook service with free access to computing resources, including GPUs and TPUs. Learn the basics of Colab with this [introduction guide](https://youtu.be/iMlMfrXJYSg?feature=shared).
-
-## NumPy Basics
-
-NumPy (Numerical Python) is a fundamental library for linear algebra in Python. It plays a crucial role in AI/ML and data science by enabling efficient mathematical and logical operations on arrays. Explore NumPy through the following resources:
-
-- [NumPy Quickstart Tutorial](https://numpy.org/doc/stable/user/quickstart.html)
-- [NumPy W3Schools Tutorial](https://www.w3schools.com/python/numpy/default.asp)
-- [NumPy Video Tutorial](https://youtu.be/QUT1VHiLmmI?feature=shared)
-
-## Matplotlib Basics
-
-Matplotlib is Python's essential plotting library, widely used for data visualization. It supports various types of plots and is the foundation for other visualization packages like pandas and Seaborn. Get familiar with Matplotlib through these resources:
-
-- [Matplotlib W3Schools Intro](https://www.w3schools.com/python/matplotlib_intro.asp)
-- [Matplotlib Documentation](https://matplotlib.org/)
-- [Matplotlib Video Tutorial](https://youtu.be/OZOOLe2imFo?feature=shared)
-
-## Pandas Basics
-
-Pandas is a Python library used for working with datasets. It is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool. Pandas has data structures for data analysis. The most commonly used data structures are Series and DataFrame. Series is one-dimensional. It consists of one column. DataFrame is two dimensional. It consists of rows and columns. For basic introduction use the following guide:                                                                                   - [Pandas Documentation](https://pandas.pydata.org/)                                                                   
-- [W3Schools Pandas Tutorial](https://www.w3schools.com/python/pandas/default.asp)
-- [Pandas Video Tutorial](https://youtu.be/vmEHCJofslg?feature=shared)
+this was then followed by an assignment to be solved.
